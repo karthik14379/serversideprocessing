@@ -46,7 +46,7 @@ urlpatterns = [
 
 ## OUTPUT:
 
-![Area of Rectangle](/images/ex5-output1.jpg)
+![Area of Rectangle](images/ex5-output1.jpg)
 
 ### Home Page:
 
